@@ -280,4 +280,7 @@ public class Piskvorky {
         lastmovecol = col;
 
     }
+    //test
+    //test2
+    //test3
 }
