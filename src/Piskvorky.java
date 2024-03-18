@@ -278,6 +278,7 @@ public class Piskvorky {
         board[row][col] = currentPlayer;
         lastmoverow = row;
         lastmovecol = col;
-//ahoj
+
     }
+    //test
 }
