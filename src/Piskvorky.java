@@ -274,10 +274,5 @@ public class Piskvorky {
      @param row A row of moves.
      @param col A col of moves.
      */
-    public static void makeMove(int row, int col) {
-        board[row][col] = currentPlayer;
-        lastmoverow = row;
-        lastmovecol = col;
 
-    }
 }
